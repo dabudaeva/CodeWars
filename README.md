@@ -1,8 +1,9 @@
 # CodeWars
 
-This repo created for collecting my solutions
+This repo created for collecting my solutions from CodeWars
 
 
-CodeWars profile: [@avbudaeva](https://www.codewars.com/users/avbudaeva)
+My CodeWars profile: [@avbudaeva](https://www.codewars.com/users/avbudaeva)
 
 ![image](https://www.codewars.com/users/avbudaeva/badges/large)
+
